@@ -12,7 +12,7 @@ The **first thing you should do** is read the BitBucket repository titled "[How 
 After you have read that page, follow the instructions. The **ProjectName** mentioned on the page is called **edu.vcccd.vc.csv40.HelloWorld** for this assignment. All assignments start with a sentence giving you the name of the project. You can see this above in bold text.
 
 Once you have followed the instructions shown on the "How to Start Every Project in this Class" web page you should have a file called **edu.vcccd.vc.csv40.HelloWorld.java**. Replace all of the code present in that file with the code shown below.
-
+ 
   
 ```java
 package edu.vcccd.vc.cs40;
@@ -24,7 +24,7 @@ package edu.vcccd.vc.cs40;
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  *
- * @author [CHANGE THIS TO YOUR INFORMATION]
+ * @:O 
  */
 public class edu.vcccd.vc.csv40.HelloWorld {
 
